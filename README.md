@@ -1,0 +1,1 @@
+Тестовая работа с проектом The Star Wars API (https://swapi.dev/)
